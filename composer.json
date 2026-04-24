@@ -1,5 +1,5 @@
 {
-    "name": "dklemmt/contao_dk_masonry",
+    "name": "srothe/contao_dk_masonry",
     "description": "Implementation of Masonry as extension for Contao Open Source CMS",
     "keywords": ["contao", "gallery", "grid", "masonry"],
     "type": "contao-bundle",
@@ -18,8 +18,8 @@
     ],
     "support": {
         "email": "dirch@quantentunnel.de",
-        "issues": "https://github.com/dklemmt/contao_dk_masonry/issues",
-        "source": "https://github.com/dklemmt/contao_dk_masonry"
+        "issues": "https://github.com/srothe/contao_dk_masonry/issues",
+        "source": "https://github.com/srothe/contao_dk_masonry"
     },
     "require": {
         "php": ">=8.1",
