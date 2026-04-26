@@ -1,5 +1,5 @@
 {
-    "name": "srothe/contao_dk_masonry",
+    "name": "dklemmt/contao_dk_masonry",
     "description": "Implementation of Masonry as extension for Contao Open Source CMS",
     "keywords": ["contao", "gallery", "grid", "masonry"],
     "type": "contao-bundle",
